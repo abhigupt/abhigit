@@ -1,0 +1,25 @@
+Usage: ping [-LRUbdfnqrvVaA] [-c count] [-i interval] [-w deadline]
+            [-p pattern] [-s packetsize] [-t ttl] [-I interface or address]
+            [-M mtu discovery hint] [-S sndbuf]
+            [ -T timestamp option ] [ -Q tos ] [hop1 ...] destination
+
+
+No connection for the switch Japan_Avaya
+
+
+index=eaps_hendrix_prd
+
+index=eaps_hendrix_np
+
+
+C:\Users\abhigupt\AppData\Local\Microsoft\Windows\Temporary Internet Files
+
+
+hendrixprod-v2
+
+
+169 to .31  port 3060 normal closure at 10.06 PM PST
+
+169 to .31 port 3070 normal closure at 05:06:27 AM PST - 
+
+Critical failure in selector 
