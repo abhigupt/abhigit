@@ -16,10 +16,4 @@ C:\Users\abhigupt\AppData\Local\Microsoft\Windows\Temporary Internet Files
 
 
 hendrixprod-v2
-
-
-169 to .31  port 3060 normal closure at 10.06 PM PST
-
-169 to .31 port 3070 normal closure at 05:06:27 AM PST - 
-
 Critical failure in selector 
